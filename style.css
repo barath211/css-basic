@@ -1,17 +1,33 @@
-
-
-h2{
-    font-family: 'Smokum', cursive; font-size: x-large;
-    background-color: #2be29c79;
-}h2
-h2{font-size: 2.6rem;}
-
-
-
-p{font-size: 2.5rem;}
-p{
-    font-family: 'Roboto', sans-serif;
-}p
-html{
-    font-size: 1rem;
+.link-instagram
+{font-size: 1rem;
+font-weight: 1000;
+color: #e982eea3;
 }
+.link-instagram:hover{font-size: 3rem;
+color: orangered;
+text-decoration: dotted; }
+
+.link-instagram:active{font-size: 1rem;
+color: aqua;}
+
+.link-instagram:visited{font-size: 5rem;
+color: #e982eea3 982eea 3px; ;}
+
+
+.link-facebook{
+    font-size: 1rem;
+    font-weight: 1000;
+    color: blue;
+}
+
+.link-facebook:hover{color: rgb(30, 255, 75);
+    font-size: 3rem;
+text-decoration: dotted;
+}
+
+.link-facebook:active{
+    font-size: 2rem;
+    color: hsla(0, 89%, 38%, 0.945);
+}
+
+.
